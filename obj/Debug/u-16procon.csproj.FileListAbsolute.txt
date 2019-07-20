@@ -1,0 +1,2 @@
+C:\Users\genshi\source\repos\u-16procon\obj\Debug\u-16procon.csprojAssemblyReference.cache
+C:\Users\genshi\source\repos\u-16procon\obj\Debug\u-16procon.csproj.CoreCompileInputs.cache
